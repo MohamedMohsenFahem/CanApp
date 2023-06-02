@@ -1,0 +1,7 @@
+Actinic keratoses and intraepithelial carcinoma(Akiec)
+Basal cell carcinoma(Bcc)
+Benign lesions of the keratosis(bkl)
+Dermatofibroma(Df)
+Melanoma(Mel)
+Melanocytic nevi(Nv)
+Vascular lesions(Vasc)
